@@ -1,1 +1,1 @@
-int rrand();
+int random_gen();
